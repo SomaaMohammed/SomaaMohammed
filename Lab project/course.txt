@@ -1,5 +1,0 @@
-CMPS151,Programming Concepts,3
-CMPS,Data Structures,4
-CMPS251,Object oritend,4
-CMPS123,Ismail Programming test,4
-CMPS999,Computer,3
